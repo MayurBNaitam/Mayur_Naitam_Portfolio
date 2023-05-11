@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad31bf57.css",
+    "main.js": "/static/js/main.c6bdaaf0.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/rocket-3972.gif": "/static/media/rocket-3972.174cccea266c420b89ce.gif",
+    "static/media/bg5.jpg": "/static/media/bg5.430c62baaa083afe3146.jpg",
+    "static/media/Programming-amico.png": "/static/media/Programming-amico.90270b170a7f954b3f21.png",
+    "static/media/—Pngtree—programming and web technology vector_4089305.png": "/static/media/—Pngtree—programming and web technology vector_4089305.6c569f9eec00a89264d6.png",
+    "static/media/png2.png": "/static/media/png2.3f665eb8fa37e406e3ef.png",
+    "static/media/instagram.png": "/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.5fc400c4b153fc178ad7.png",
+    "static/media/linkedin.png": "/static/media/linkedin.17e919bb623c20be8b80.png",
+    "index.html": "/index.html",
+    "main.ad31bf57.css.map": "/static/css/main.ad31bf57.css.map",
+    "main.c6bdaaf0.js.map": "/static/js/main.c6bdaaf0.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad31bf57.css",
+    "static/js/main.c6bdaaf0.js"
+  ]
+}
